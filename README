@@ -1,0 +1,9 @@
+This repo contains all of the files from my learning web scraping and regular expressions with Python.
+It will contain files from beginning to advanced as I continue to expand my knowledge of Python.
+
+The following files follow a sample on realpython.org and use their sites set up specifically for 
+webscraping:
+    webscraping1.py
+    webscraping2.py
+    regex1.py
+
